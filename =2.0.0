@@ -1,0 +1,10 @@
+Collecting SimpleITK
+  Downloading https://files.pythonhosted.org/packages/ad/a1/07e96650d9fd5406db0d51f959a7e4f1f6f88807da83adf27e2325d7bf11/SimpleITK-2.3.0.tar.gz (2.1MB)
+    Complete output from command python setup.py egg_info:
+    Traceback (most recent call last):
+      File "<string>", line 1, in <module>
+      File "/tmp/pip-build-3ik9n3ll/SimpleITK/setup.py", line 3, in <module>
+        from skbuild import setup
+    ModuleNotFoundError: No module named 'skbuild'
+    
+    ----------------------------------------
